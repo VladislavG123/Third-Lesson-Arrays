@@ -1,0 +1,7 @@
+C:\Users\гороховв\source\repos\Less2\Less2\bin\Debug\Less2.exe.config
+C:\Users\гороховв\source\repos\Less2\Less2\bin\Debug\Less2.exe
+C:\Users\гороховв\source\repos\Less2\Less2\bin\Debug\Less2.pdb
+C:\Users\гороховв\source\repos\Less2\Less2\obj\Debug\Less2.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\Less2\Less2\obj\Debug\Less2.csproj.CoreCompileInputs.cache
+C:\Users\гороховв\source\repos\Less2\Less2\obj\Debug\Less2.exe
+C:\Users\гороховв\source\repos\Less2\Less2\obj\Debug\Less2.pdb
